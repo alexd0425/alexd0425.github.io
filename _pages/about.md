@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Email:** alexd06@vt.edu
-**Affiliation:** Virginia Tech 
-**GitHub:** https://github.com/alexd0425
-
+I am a Virginia Tech student pursusing a degree in Computer Engineering. I am planning on graduating in Spring 2027 and enrolling in a master's program in Fall 2027.
 ======
