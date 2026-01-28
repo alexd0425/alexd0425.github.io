@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Virginia Tech student pursusing a degree in Computer Engineering. I am planning on graduating in Spring 2027 and enrolling in a master's program in Fall 2027.
+I am a Virginia Tech student pursuing a degree in Computer Engineering. I am planning on graduating in Spring 2027 and enrolling in a master's program in Fall 2027.
 ======
